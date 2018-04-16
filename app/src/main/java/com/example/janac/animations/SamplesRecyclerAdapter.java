@@ -16,6 +16,9 @@ import com.example.janac.animations.databinding.RowSampleBinding;
 
 import java.util.List;
 
+/**
+ * Created by janac on 04/04/18.
+ */
 public class SamplesRecyclerAdapter extends RecyclerView.Adapter<SamplesRecyclerAdapter.SamplesViewHolder> {
     private final Activity activity;
     private final List<Sample> samples;

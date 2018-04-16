@@ -8,6 +8,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class SharedElementFragment2 extends Fragment {
     private static final String EXTRA_SAMPLE = "sample";
 

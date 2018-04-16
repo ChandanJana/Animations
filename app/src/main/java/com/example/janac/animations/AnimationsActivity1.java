@@ -13,6 +13,10 @@ import android.widget.LinearLayout;
 
 import com.example.janac.animations.databinding.ActivityAnimations1Binding;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class AnimationsActivity1 extends BaseDetailActivity {
     private ImageView square;
     private ViewGroup viewRoot;

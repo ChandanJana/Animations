@@ -10,6 +10,10 @@ import android.view.View;
 
 import com.example.janac.animations.databinding.ActivityTransition1Binding;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class TransitionActivity1 extends BaseDetailActivity {
     private Sample sample;
 

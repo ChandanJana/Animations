@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import java.io.Serializable;
 
 /**
- * Created by lgvalle on 04/09/15.
+ * Created by janac on 04/04/18.
  */
 public class Sample implements Serializable {
 

@@ -12,7 +12,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 /**
- * Created by lgvalle on 05/09/15.
+ * Created by janac on 04/04/18.
  */
 public class SharedElementFragment1 extends Fragment {
 

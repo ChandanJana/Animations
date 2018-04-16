@@ -15,6 +15,10 @@ import com.example.janac.animations.databinding.ActivityAnimations2Binding;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Created by janac on 04/04/18.
+ */
+
 public class AnimationsActivity2 extends BaseDetailActivity {
 
     private static final int DELAY = 100;

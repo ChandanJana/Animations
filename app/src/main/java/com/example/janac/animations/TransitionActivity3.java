@@ -11,6 +11,10 @@ import android.view.View;
 
 import com.example.janac.animations.databinding.ActivityTransition3Binding;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class TransitionActivity3 extends BaseDetailActivity {
 
     private int type;

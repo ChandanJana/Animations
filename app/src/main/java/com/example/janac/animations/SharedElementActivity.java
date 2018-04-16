@@ -8,6 +8,10 @@ import android.view.Gravity;
 
 import com.example.janac.animations.databinding.ActivitySharedelementBinding;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class SharedElementActivity extends BaseDetailActivity {
 
 

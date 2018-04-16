@@ -8,7 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 
 /**
- * Created by lgvalle on 12/09/15.
+ * Created by janac on 04/04/18.
  */
 public class BaseDetailActivity extends AppCompatActivity {
     static final String EXTRA_SAMPLE = "sample";

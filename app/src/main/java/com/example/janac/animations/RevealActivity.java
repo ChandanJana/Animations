@@ -24,6 +24,9 @@ import android.widget.TextView;
 
 import com.example.janac.animations.databinding.ActivityRevealBinding;
 
+/**
+ * Created by janac on 04/04/18.
+ */
 
 public class RevealActivity extends BaseDetailActivity implements View.OnTouchListener {
     private static final int DELAY = 100;

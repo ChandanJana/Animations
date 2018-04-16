@@ -9,6 +9,10 @@ import android.view.View;
 
 import com.example.janac.animations.databinding.ActivityTransition2Binding;
 
+
+/**
+ * Created by janac on 04/04/18.
+ */
 public class TransitionActivity2 extends BaseDetailActivity {
 
     private int type;
